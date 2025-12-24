@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/4c9f7d0485d141668992b24ea990b4eb/artifacts
+end_time: 1766586054496
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: 4c9f7d0485d141668992b24ea990b4eb
+run_name: whimsical-hen-836
+run_uuid: 4c9f7d0485d141668992b24ea990b4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586050295
+status: 4
+tags: []
+user_id: Lenovo

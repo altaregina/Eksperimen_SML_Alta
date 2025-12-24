@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/1a38e94a2db4420aaa3f08430643d94b/artifacts
+end_time: 1766586333953
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: 1a38e94a2db4420aaa3f08430643d94b
+run_name: awesome-roo-410
+run_uuid: 1a38e94a2db4420aaa3f08430643d94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586333772
+status: 4
+tags: []
+user_id: Lenovo

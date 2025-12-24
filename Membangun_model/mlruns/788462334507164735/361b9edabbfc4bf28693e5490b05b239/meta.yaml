@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/361b9edabbfc4bf28693e5490b05b239/artifacts
+end_time: 1766586352298
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: 361b9edabbfc4bf28693e5490b05b239
+run_name: sedate-colt-291
+run_uuid: 361b9edabbfc4bf28693e5490b05b239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586351157
+status: 3
+tags: []
+user_id: Lenovo

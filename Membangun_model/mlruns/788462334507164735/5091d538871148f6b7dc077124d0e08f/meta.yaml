@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/5091d538871148f6b7dc077124d0e08f/artifacts
+end_time: 1766585980574
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: 5091d538871148f6b7dc077124d0e08f
+run_name: big-ox-617
+run_uuid: 5091d538871148f6b7dc077124d0e08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766585976459
+status: 4
+tags: []
+user_id: Lenovo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/c6db6d7be99641aba757f4b784e760f8/artifacts
+end_time: 1766585828965
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: c6db6d7be99641aba757f4b784e760f8
+run_name: burly-lark-660
+run_uuid: c6db6d7be99641aba757f4b784e760f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766585819607
+status: 4
+tags: []
+user_id: Lenovo

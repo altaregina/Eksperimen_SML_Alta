@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/8ed8cbc0d03247f48c156afbf637835f/artifacts
+end_time: 1766586107009
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: 8ed8cbc0d03247f48c156afbf637835f
+run_name: vaunted-sponge-318
+run_uuid: 8ed8cbc0d03247f48c156afbf637835f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586102550
+status: 4
+tags: []
+user_id: Lenovo

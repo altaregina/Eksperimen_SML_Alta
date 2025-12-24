@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/cde19900c5994c189ceb74d99c3ba936/artifacts
+end_time: 1766586007316
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: cde19900c5994c189ceb74d99c3ba936
+run_name: ambitious-rat-804
+run_uuid: cde19900c5994c189ceb74d99c3ba936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586003268
+status: 4
+tags: []
+user_id: Lenovo

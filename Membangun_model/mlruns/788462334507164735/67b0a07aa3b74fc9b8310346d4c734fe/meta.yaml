@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/788462334507164735/67b0a07aa3b74fc9b8310346d4c734fe/artifacts
+end_time: 1766584323104
+entry_point_name: ''
+experiment_id: '788462334507164735'
+lifecycle_stage: active
+run_id: 67b0a07aa3b74fc9b8310346d4c734fe
+run_name: magnificent-frog-608
+run_uuid: 67b0a07aa3b74fc9b8310346d4c734fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766584322755
+status: 3
+tags: []
+user_id: Lenovo
